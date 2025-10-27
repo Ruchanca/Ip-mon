@@ -1,0 +1,16 @@
+# Ping Monitor Uygulaması Gereksinimleri
+# Bu uygulama Python standart kütüphanelerini kullanır
+# Ek paket kurulumu gerekmez
+
+# Python 3.6+ gerekli
+# Kullanılan standart kütüphaneler:
+# - subprocess (ping komutları için)
+# - threading (çoklu işlem için)
+# - time (bekleme süreleri için)
+# - json (veri saklama için)
+# - os (işletim sistemi işlemleri için)
+# - datetime (zaman damgaları için)
+# - tkinter (GUI arayüzü için)
+# - queue (thread güvenli iletişim için)
+
+

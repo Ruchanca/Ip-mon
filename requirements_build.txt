@@ -1,0 +1,16 @@
+# Ping Monitor Exe Dönüştürme Gereksinimleri
+# Bu dosya exe oluşturmak için gerekli paketleri içerir
+
+# Ana uygulama gereksinimleri (zaten mevcut)
+# Python 3.6+ standart kütüphaneleri kullanılır
+
+# Exe dönüştürme gereksinimleri
+pyinstaller>=5.0.0
+
+# Opsiyonel: Icon oluşturmak için
+Pillow>=9.0.0
+
+# Opsiyonel: Daha iyi exe performansı için
+upx-ucl>=3.96
+
+

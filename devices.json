@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Google",
+    "ip": "8.8.8.8",
+    "status": "online",
+    "last_check": "2025-10-25T14:34:30.444556",
+    "last_status_change": "2025-10-25T14:33:30.593605"
+  },
+  {
+    "name": "PC",
+    "ip": "192.168.10.5",
+    "status": "offline",
+    "last_check": "2025-10-25T14:34:35.365728",
+    "last_status_change": "2025-10-25T14:32:55.377139"
+  },
+  {
+    "name": "MODEM",
+    "ip": "192.168.1.1",
+    "status": "online",
+    "last_check": "2025-10-25T14:34:35.413515",
+    "last_status_change": "2025-10-25T14:33:35.404667"
+  }
+]
+
